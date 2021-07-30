@@ -2,7 +2,7 @@
 team
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Projet2</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -14,7 +14,7 @@ team
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/hymo1/claudi2">
       Solution
     </a>
     <span> | </span>
@@ -73,5 +73,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub hymo1(https://{github.com/your-usermame})
+- GitHub hymo1(https://github.com/hymo1)
 - Twitter [@your-twitter](https://{twitter.com/your-username})

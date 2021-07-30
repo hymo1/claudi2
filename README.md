@@ -73,5 +73,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub hymo1(https://github.com/hymo1)
+- hymo1(https://github.com/hymo1)
 - Twitter [@your-twitter](https://{twitter.com/your-username})
